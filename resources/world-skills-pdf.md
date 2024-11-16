@@ -244,42 +244,78 @@ Mirkwood Productions Michael Kirkwood-Smith
 TAFE NSW Mitch Tamsett
 TAFE QLD Faculty of Creative Art and Digital Design
 2024 Regional Competition Pack -Programming ©WorldSkills Australia 2024. All rights reserved. 6
-COMPETITOR INFORMATION
-COMPETITION DESCRIPTION
-This is a competition for Windows desktop application developers to produce either a .NET (any language,
-e.g. C#) or Java solution. The competitor will be given a business scenario in which they will need to develop
-a holistic/integrated solution that satisfies the business requirements.
-The project will require the competitor to create a single application made up of multiple forms/sections, each
-handling a different area of functionality. The forms will need to provide an easy to use graphical user interface
-(GUI) with business logic code running behind it to take form input and perform calculations/manipulation. A
-database will be provided (either Microsoft SQL Server or MySQL) to interact with, for example to
-list/add/edit/delete customers or to perform statistical analysis such as a total amount from orders in a month.
-REQUIRED SKILLS
-The competition has been designed to use MySQL or SQL Server as the backend component. The
-competitor may be required to create, modify or design a relational database, including the following:
-• Tables: Add, edit, delete, set properties
-• Relational aspects: define relationships between tables/entities
-• Integration: import data from variety of sources
-The front-end has been designed to use .NET or Java environments. The competitor will be required to
-design and create a Windows desktop application to meet the specified requirements. The following could
-form part of the assessment:
-• User experience: provide a well-structured and well laid out interface; clean clear and easy to use interface;
-professionalism; consistency, such as navigational elements, branding, etc.
-• Database integration: Connect application to a data source; perform standard operations on the data
-source; perform complex queries on the data source
-• Validation and error checking: handling errors/exceptions appropriately; providing validation to ensure clean
-data being sent; providing friendly error messages to the user
-• Forms: creating appropriate forms; using appropriate types of input/output controls; customizing form
-properties to fulfil requirements
-• Business logic: providing customized business logic where appropriate; possibility modelling a business’s
-data objects
-• Reporting: providing customized reports of data from the data source; group, sort, summarise and filter
-data; adjust layout and formatting as required and meeting specifications
-• Integration: export data in variety of formats
-UNIFORM
-On the day of the competition, all competitors are required to wear the following:
+
+# Competitor Information
+
+# Competition Description
+
+   This is a competition for Windows desktop application developers to
+   produce either a .NET (any language, e.g. C#) or Java solution. The
+   competitor will be given a business scenario in which they will need
+   to develop a holistic/integrated solution that satisfies the business
+   requirements.
+
+   The project will require the competitor to create a single application
+   made up of multiple forms/sections, each handling a different area of
+   functionality. The forms will need to provide an easy to use graphical
+   user interface (GUI) with business logic code running behind it to
+   take form input and perform calculations/manipulation. A database will
+   be provided (either Microsoft SQL Server or MySQL) to interact with,
+   for example to list/add/edit/delete customers or to perform
+   statistical analysis such as a total amount from orders in a month.
+
+
+# Required Skills
+
+   The competition has been designed to use MySQL or SQL Server as the
+   backend component. The competitor may be required to create, modify or
+   design a relational database, including the following:
+
+   - Tables: Add, edit, delete, set properties
+
+•  - Relational aspects: define relationships between tables/entities
+
+•  - Integration: import data from variety of sources
+
+   The front-end has been designed to use .NET or Java environments. The
+   competitor will be required to design and create a Windows desktop
+   application to meet the specified requirements. The following could
+   form part of the assessment:
+
+   - User experience: provide a well-structured and well laid out
+     interface; clean clear and easy to use interface; professionalism;
+     consistency, such as navigational elements, branding, etc.
+
+   - Database integration: Connect application to a data source; perform
+     standard operations on the data source; perform complex queries on
+     the data source
+
+   - Validation and error checking: handling errors/exceptions
+     appropriately; providing validation to ensure clean data being sent;
+     providing friendly error messages to the user
+
+   - Forms: creating appropriate forms; using appropriate types of
+     input/output controls; customizing form properties to fulfil
+     requirements
+
+   - Business logic: providing customized business logic where
+     appropriate; possibility modelling a business's data objects
+
+   - Reporting: providing customized reports of data from the data
+     source; group, sort, summarise and filter data; adjust layout and
+     formatting as required and meeting specifications
+
+   - Integration: export data in variety of formats
+
+
+# Uniform
+
+   On the day of the competition, all competitors are required to wear
+   the following:
+
 • Industry appropriate workwear
 • Closed in footwear
+
 PERSONAL PROTECTIVE EQUIPMENT
 All competitors must provide and wear their own personal protective equipment at all times during the
 competition, according to the below list. Any competitor without the required equipment will not be permitted
@@ -316,26 +352,49 @@ The briefing will include:
 brief
 • Answer any questions
 2024 Regional Competition Pack -Programming ©WorldSkills Australia 2024. All rights reserved. 8
-COMPETITION INSTRUCTIONS
-BACKGROUND
-Ticked Off is a long-established vet practice that has been operating in the Hornsby area of Sydney for many
-years. The owner, VictorGrahams, hasrecentlyretired and hashanded the practice overtohisson in law, Keith
-Cabrade. Keith sees an urgent need to overhaul the paper based record keeping procedures and streamline
-the methods of communicating with clients.
-REQUIREMENTS
-Hawkwood Consultants has been employed to provide the new solution for Ticked Off. You have been
-contracted by Hawkwood Consultants to assist with the development of this solution. You should ensure that
-you adhere to clean, professional development practices (other developers will love you in the future!).
-DELIVERABLES
-You will be developing a holistic system to help a vet practice manage their data. Specifically, you will be
-asked to:
-• Modify and use a database that will assist with record keeping – details of clients, pets and staff
-• Construct user friendly methods by which records in the database can be added, edited, displayed,
-and deleted
-• Provide a way in which pet boarding costs can be calculated
-• Give users easy access to statistics about pet boarding details
-• Export data to CSV format
-• Display a presentation on removing and killing ticks that can be shown in the waiting room.
+
+# Competition Instructions
+
+# Background
+
+   Ticked Off is a long-established vet practice that has been operating
+   in the Hornsby area of Sydney for many years. The owner,
+   VictorGrahams, hasrecentlyretired and hashanded the practice
+   overtohisson in law, Keith Cabrade. Keith sees an urgent need to
+   overhaul the paper based record keeping procedures and streamline the
+   methods of communicating with clients.
+
+
+# Requirements
+
+   Hawkwood Consultants has been employed to provide the new solution for
+   Ticked Off. You have been contracted by Hawkwood Consultants to assist
+   with the development of this solution. You should ensure that you
+   adhere to clean, professional development practices (other developers
+   will love you in the future!).
+
+
+# Deliverables
+
+   You will be developing a holistic system to help a vet practice manage
+   their data. Specifically, you will be asked to:
+
+   - Modify and use a database that will assist with record keeping –
+     details of clients, pets and staff
+
+   - Construct user friendly methods by which records in the database can
+     be added, edited, displayed, and deleted
+
+   - Provide a way in which pet boarding costs can be calculated
+
+   - Give users easy access to statistics about pet boarding details
+
+   - Export data to CSV format
+
+   - Display a presentation on removing and killing ticks that can be
+     shown in the waiting room.
+
+
 2024 Regional Competition Pack -Programming ©WorldSkills Australia 2024. All rights reserved. 9
 APPLICATIONOVERVIEW
 TICKED OFF – APPLICATION MAP
